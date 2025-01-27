@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <section id="hero" className="bg-blue-50 py-20">
-      <div className="container mx-auto text-center">
+      <div className="container mx-auto text-center items-center">
         <h2 className="text-4xl font-bold text-blue-600 mb-4">
           Your Trusted Partner for Compliance Business Needs
         </h2>
