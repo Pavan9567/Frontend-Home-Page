@@ -33,7 +33,7 @@ const NavigationBar = () => {
                 <a href="#contact" className="hover:text-yellow-300">Contact</a>
             </li>
             <li>
-                <button className="bg-orange-600 text-white py-2 px-6 rounded-md hover:bg-gray-700">Talk An Expert</button>
+                <button type="submit" className="bg-orange-600 text-white py-2 px-6 rounded-md hover:bg-gray-700">Talk An Expert</button>
             </li>
           </ul>
         </nav>

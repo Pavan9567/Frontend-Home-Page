@@ -11,10 +11,10 @@ const Hero = () => {
           We offer comprehensive solutions for business compliance needs, making the process seamless, fast, and reliable.
         </p>
         <div className="space-x-4">
-          <button className="bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700">
+          <button type="button" className="bg-blue-600 text-white py-2 px-6 rounded hover:bg-blue-700">
             Explore Services
           </button>
-          <button className="bg-gray-200 text-blue-600 py-2 px-6 rounded hover:bg-gray-300">
+          <button type="button" className="bg-gray-200 text-blue-600 py-2 px-6 rounded hover:bg-gray-300">
             Learn More
           </button>
         </div>
